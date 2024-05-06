@@ -3,7 +3,8 @@
 #Yuksel Sinan L2-I-D
 
 #Fonctionnalité du programme gui:
-	#gui.jar:
+	
+ #gui.jar:
 	  #-Choisir un fichier -> Permet de choisir et d'enregistrer un fichier en mémoire (même option disponible pour repertoire)
     #-Afficher les options disponibles
 	  #-Fichier -> On peut analyser le fichier (verifier les annotations de type, commentaire pydoc, shebang et UTF-8) ou le modifier(editer manuellement, ajouter les commentaire pydoc, ou shebang et UTF-8)
